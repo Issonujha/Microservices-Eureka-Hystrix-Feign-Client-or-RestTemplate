@@ -95,4 +95,7 @@ This `README.md` includes everything from the architecture description, technolo
 ![Screenshot 2024-12-20 013739](https://github.com/user-attachments/assets/e7f44ac4-a565-489f-9aaa-ba307d2d700b)
 ![Screenshot 2024-12-20 013759](https://github.com/user-attachments/assets/8d779c91-ce02-4a0d-8dd3-6f56ac6533f0)
 ![Screenshot 2024-12-20 013817](https://github.com/user-attachments/assets/704d4960-98f1-48fc-aee2-fedd1a0a6989)
-![Screenshot 2024-12-20 013847](https://github.com/user-attachments/assets/3f98a80d-69f0-49ef-8449-d27317484a69)
+![Screenshot 2024-12-20 ![Screenshot 2024-12-20 023319](https://github.com/user-attachments/assets/77d3a3bf-d8d4-472b-98b5-30dc973276f7)
+![Screenshot 2024-12-20 023346](https://github.com/user-attachments/assets/6cf0ceff-24aa-4778-ad59-9f3865590e16)
+013847](https://github.com/user-attachments/assets/3f98a80d-69f0-49ef-8449-d27317484a69)
+
