@@ -26,6 +26,8 @@ public class EurekaServerApplication {
 }
 
 
+
+
 Feign Client - Simplified HTTP Communication
 Feign allows you to define HTTP requests declaratively, removing the need for boilerplate code like RestTemplate. It integrates with Eureka for automatic service discovery.
 
@@ -86,3 +88,11 @@ Course Application: http://localhost:8082
 - **RestTemplate**: Provides control over custom HTTP requests.
 
 This `README.md` includes everything from the architecture description, technology used, code snippets, setup instructions, and licensing information in a professional format. You can adjust the project link and any specific configurations as per your project.
+![Screenshot 2024-12-20 013434](https://github.com/user-attachments/assets/c9b867ba-8675-4010-be7e-21fcecec0654)
+![Screenshot 2024-12-20 013555](https://github.com/user-attachments/assets/f7d3541e-cc48-4fab-96f1-f558fd9c0614)
+![Screenshot 2024-12-20 013624](https://github.com/user-attachments/assets/2e98ef02-4da2-469e-94f5-03172d9787ea)
+![Screenshot 2024-12-20 013709](https://github.com/user-attachments/assets/b48cedea-21e6-4b67-a3ed-f53019f3dae4)
+![Screenshot 2024-12-20 013739](https://github.com/user-attachments/assets/e7f44ac4-a565-489f-9aaa-ba307d2d700b)
+![Screenshot 2024-12-20 013759](https://github.com/user-attachments/assets/8d779c91-ce02-4a0d-8dd3-6f56ac6533f0)
+![Screenshot 2024-12-20 013817](https://github.com/user-attachments/assets/704d4960-98f1-48fc-aee2-fedd1a0a6989)
+![Screenshot 2024-12-20 013847](https://github.com/user-attachments/assets/3f98a80d-69f0-49ef-8449-d27317484a69)
